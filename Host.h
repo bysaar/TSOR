@@ -1,9 +1,10 @@
 /*
  * --------FINAL_PROJECT----------
- * Saar Ben-Yochana - 313234155
- * Efi Korenfeld - 208838359
+ * Saar Ben-Yochana - *********
+ * Efi Korenfeld - *********
  * -------------------------------
  */
+
 #ifndef HOST_H_
 #define HOST_H_
 #include <stdio.h>
