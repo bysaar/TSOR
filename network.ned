@@ -14,8 +14,8 @@ import ned.IBidirectionalChannel;
 // along with this program.  If not, see http://www.gnu.org/licenses/.
 //
 //--------FINAL_PROJECT----------
-//  Saar Ben-Yochana - 313234155
-//  Efi Korenfeld - 208838359
+//  Saar Ben-Yochana - *********
+//  Efi Korenfeld - *********
 //-------------------------------
 
 // Network1 topology: (6 nodes)
