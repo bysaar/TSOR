@@ -1,7 +1,7 @@
 /*
  * --------FINAL_PROJECT----------
- * Saar Ben-Yochana - 313234155
- * Efi Korenfeld - 208838359
+ * Saar Ben-Yochana - *********
+ * Efi Korenfeld - *********
  * -------------------------------
  */
 
